@@ -1,2 +1,3 @@
 console.log("Hello world");
-console.log("hi git");
+
+console.log("Hello merge");
